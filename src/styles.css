@@ -1,0 +1,15 @@
+body {
+  padding: 50px 50px 50px 50px;
+  background: linear-gradient(
+    109.6deg,
+    rgb(255, 221, 225) 11.2%,
+    rgb(255, 255, 255) 92.2%
+  );
+}
+h2,
+h3,
+p {
+  padding-top: 10px;
+  font-family: "Sanchez", serif;
+  color: #152e50;
+}
