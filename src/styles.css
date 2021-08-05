@@ -2,9 +2,9 @@ body {
   background: #fae3e3;
 }
 h2,
-h3,
-p {
+h3 {
   padding-top: 10px;
   font-family: "Sanchez", serif;
   color: #152e50;
+  text-align: center;
 }
